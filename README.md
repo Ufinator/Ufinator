@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ufinator" target="blank"><img src="https://img.shields.io/twitter/follow/ufinator?logo=twitter&style=for-the-badge" alt="ufinator" /></a> </p>
 
-- ⚙️ I’m currently working on **a NewsApp (hidden :P)**
+- ⚙️ I’m currently working on **nothing, i'm bored**
 
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **Nothing, i'm still bored**
 
-- 📫 You can reach me with this mail: **admin@ufinator.net**
+- 📫 You can reach me with this mail: **mateo@snjegotinac.ch**
 
-- 📄 Get more Informations about me [https://ufinator.net](https://ufinator.net)
+- 📄 Get more Informations about me [https://mateo.snjegotinac.ch](https://mateo.snjegotinac.ch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
